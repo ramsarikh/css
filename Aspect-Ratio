@@ -1,0 +1,4 @@
+.preferably-square {
+  width: 300px;
+  aspect-ratio: auto 1 / 1; 
+}
